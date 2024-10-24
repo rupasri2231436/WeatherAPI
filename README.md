@@ -12,7 +12,7 @@ Required Python packages: requests, pandas, matplotlib, and schedule.
 
 **To install these packages, run:**
 
-pip install requests pandas matplotlib schedule
+pip install -r requirements.txt
 
 **Get your OpenWeatherMap API Key:**
 
