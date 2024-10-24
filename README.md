@@ -5,7 +5,15 @@ The Real-Time Weather Monitoring System is designed to monitor weather condition
 **Prerequisites**
 
 Python 3.x
-
 A valid OpenWeatherMap API key
-
 Required Python packages: requests, pandas, matplotlib, and schedule.
+
+**To install these packages, run:**
+pip install requests pandas matplotlib schedule
+
+**Get your OpenWeatherMap API Key:**
+Sign up at OpenWeatherMap and generate an API key.
+
+**Configure the API key:**
+
+In the Python file weather_monitoring.py, replace 'your_api_key_here' with your actual API key.
